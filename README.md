@@ -13,19 +13,19 @@ ETH Bank Pro is an open source, decentralized, fair investment smart contract.
 
 ### 2. Static revenue
 
-**V1 Member：**Earn 0.5% of the principal per day
+**V1 Member：** Earn 0.5% of the principal per day
 
-**V2 Member：**Earn 0.7% of the principal per day
+**V2 Member：** Earn 0.7% of the principal per day
 
-**V3 Member：**Earn 1% of the principal per day
+**V3 Member：** Earn 1% of the principal per day
 
 ### 3. Invitation reward
 
-**V1 Member：**Get 50% of the static benefits of the first generation under the umbrella every day.
+**V1 Member：** Get 50% of the static benefits of the first generation under the umbrella every day.
 
-**V2 Member：**Get 70% of the static benefits of the first generation and 50% of the second generation under the umbrella every day.
+**V2 Member：** Get 70% of the static benefits of the first generation and 50% of the second generation under the umbrella every day.
 
-**V3 Member：**Get 100% of the static benefits of the first generation, 70% of the second generation, 50% of the third generation, 10% of the fourth to tenth generation, 5% of the 11th to 20th generation, and 1% of the 21st to the next unlimited generation under the umbrella every day.
+**V3 Member：** Get 100% of the static benefits of the first generation, 70% of the second generation, 50% of the third generation, 10% of the fourth to tenth generation, 5% of the 11th to 20th generation, and 1% of the 21st to the next unlimited generation under the umbrella every day.
 
 ### 4. Rule of withdrawal
 
