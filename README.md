@@ -1,7 +1,7 @@
 # ETH Bank Pro
 ETH Bank Pro is an open source, decentralized, fair investment smart contract.
 
-[中文文档](https://github.com/ETHBank-Pro/ETHBankPro)
+[中文文档](https://github.com/ETHBank-Pro/ETHBankPro/blob/master/README_CN.md)
 
 ## Key function definition
 
